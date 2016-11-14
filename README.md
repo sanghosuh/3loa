@@ -1,6 +1,8 @@
 # 3 Laws of Acquisition (3loa)
 
-A framework consisting of 3 sequential steps that utilize 2 essential conditions for acquisition of knowledge/skill:
+A framework consisting of **three sequential steps** that utilize **two essential conditions** for acquisition of knowledge/skill.
+
+Two essential conditions are the following:
 
 * `Comprehensible input` 
 > Input not 'comprehensible' to a learner cannot be learned nor acquired.
@@ -8,8 +10,6 @@ A framework consisting of 3 sequential steps that utilize 2 essential conditions
 * `Low filter` - (1) Motivation (2) Self-Confidence (3) Anxiety
 > High motivation, self-confidence and low anxiety weaken the strength of filter that prevents input from getting past and reaching a learner. (Note that type two acculturation can help lower anxiety as well.)
 
-Procedure
-----------
 Three sequential steps consist of the following stages:
 
 1. `Memorization` - Comprehensible input 

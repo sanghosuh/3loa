@@ -19,11 +19,18 @@ Three sequential steps consist of the following stages:
 3. `Application` - Advance 
 
 
+Application
+---------
+* [`Speaking without Thinking`]
+
+
 Acquisition-Learning Distinction
 ---------
-* `Acquisition` - CAN generate additional knowledge / Subconscious
+* `Acquisition` - Subconscious / CAN generate additional knowledge
 
-* `Learning` - CANNOT generate additional knowledge / Conscious
+* `Learning` - Conscious / CANNOT generate additional knowledge
+
+
 
 Resource
 ---------

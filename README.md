@@ -8,7 +8,7 @@ Two essential conditions are the following:
 > Input not 'comprehensible' to a learner cannot be learned nor acquired.
 
 * `Low filter`[[cf](img/fig_filter.PNG)] - (1) Motivation (2) Self-Confidence (3) Anxiety
-> High motivation, self-confidence and low anxiety weaken the strength of filter that prevents input from getting past and reaching a learner. (Note that type two acculturation can help lower anxiety as well.)
+> High motivation, self-confidence and low anxiety weaken the strength of filter that prevents input from getting past and reaching a learner. (Note that in case of second language acquisition, type two acculturation can help lower anxiety as well.)
 
 Three sequential steps consist of the following stages:
 

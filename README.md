@@ -1,5 +1,4 @@
 # 3 Laws of Acquisition
------------
 
 A framework consisting of 3 sequential steps that utilize 2 essential conditions for acquisition of knowledge/skill:
 

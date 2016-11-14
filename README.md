@@ -4,10 +4,10 @@ A framework consisting of **three sequential steps** that utilize **two essentia
 
 Two essential conditions are the following:
 
-* `Comprehensible input` 
+* `Comprehensible input`[[cf](github.com/img/fig_ci.PNG)]
 > Input not 'comprehensible' to a learner cannot be learned nor acquired.
 
-* `Low filter` - (1) Motivation (2) Self-Confidence (3) Anxiety
+* `Low filter`[[cf](github.com/img/fig_filter.PNG)] - (1) Motivation (2) Self-Confidence (3) Anxiety
 > High motivation, self-confidence and low anxiety weaken the strength of filter that prevents input from getting past and reaching a learner. (Note that type two acculturation can help lower anxiety as well.)
 
 Three sequential steps consist of the following stages:
